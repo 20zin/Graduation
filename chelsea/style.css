@@ -95,3 +95,50 @@ a {
         display: flex;
     }
 }
+
+.submenu1{
+    overflow: hidden;
+    height: 0;
+    list-style: none;
+}
+
+.submenu2{
+    overflow: hidden;
+    height: 0;
+}
+
+.submenu3{
+    overflow: hidden;
+    height: 0;
+}
+
+.submenu4{
+    overflow: hidden;
+    height: 0;
+}
+
+.submenu5{
+    overflow: hidden;
+    height: 0;
+}
+
+.navbar_menu li:hover .submenu1{
+    transition-duration: 0.75s;
+    height: 100px;
+}
+.navbar_menu li:hover .submenu2{
+    transition-duration: 0.75s;
+    height: 75px;
+}
+.navbar_menu li:hover .submenu3{
+    transition-duration: 0.75s;
+    height: 150px;
+}
+.navbar_menu li:hover .submenu4{
+    transition-duration: 0.75s;
+    height: 75px;
+}
+.navbar_menu li:hover .submenu5{
+    transition-duration: 0.75s;
+    height: 100px;
+}
