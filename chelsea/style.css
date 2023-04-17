@@ -142,3 +142,21 @@ a {
     transition-duration: 0.75s;
     height: 100px;
 }
+.player{
+    text-align:center;
+    
+}
+  div>section>img{
+    width:200px;
+    margin:25px;
+    border:2px outset rgba(2, 7, 11, 0.67);
+	border-radius:5px;
+    
+}
+
+.firstTeam{
+    color: #444;
+    text-shadow: 
+    -1px -1px 1px #000, 
+    2px 2px 1px #c0c0c0;
+}
